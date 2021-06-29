@@ -33,8 +33,8 @@
                         <h4 class="widget-title">About Us</h4>
                         <ul>
                             <li><a href="/career">Careers</a></li>
-                            <li><a href="/privacy">Privacy Policy</a></li>
-                            <li><a href="page-contact-us.html">Investor Relations</a></li>
+                            <li><a href="/team">Our Team</a></li>
+                            <li><a href="/clients">Client Relations</a></li>
                             <li><a href="/contact">Locations</a></li>
                             <li><a href="#">Sitemap</a></li>
                         </ul>
@@ -48,6 +48,8 @@
                             <li><a href="page-services.html">Certificates</a></li>
                             <li><a href="page-services.html">Maintenance Instructions</a></li>
                             <li><a href="page-services.html">Catalogues</a></li>
+                            <li><a href="/partners">Partners</a></li>
+                            <li><a href="/testimonials">Testimonials</a></li>
                         </ul>
                     </div>
                 </div>

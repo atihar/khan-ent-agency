@@ -45,6 +45,14 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
+Route::get('/clients', function () {
+    return view('clients');
+});
+
+Route::get('/our-leader', function () {
+    return view('our-leader');
+});
+
 Route::get('/partners', function () {
     return view('partners');
 });
