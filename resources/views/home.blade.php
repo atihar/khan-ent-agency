@@ -9,7 +9,25 @@
                     <div class="col-lg-6 col-md-8">
                         <h1 class="text-black mb-4">Khan Ent is a leading construction and infrastructure services company</h1>
                         <p class="mb-5">At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
-                        <div class="pb-md-2"><a class="btn btn-outline-black" href="/about">ABOUT US</a></div>
+                       <div class="pb-md-2 d-inline"><a class="btn btn-outline-black" href="/about">ABOUT US</a></div>
+                       <div class="pb-md-2 d-inline"><a class="btn btn-black" data-bs-toggle="modal" data-tagVideo="https://www.youtube.com/embed/sU1MZU3MJXM" data-bs-target="#videoModal">Watch Intro</a></div>
+
+                        {{--modal start--}}
+                        <div class="modal fade" id="videoModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-xl">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">close</button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="ratio ratio-16x9">
+                                            <iframe height="600" width="1100" src="" allow="autoplay;" allowfullscreen></iframe>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {{--modal end   --}}
                     </div>
                     <div class="col-lg-6">
                         <div class="mt-lg-0 mt-md-5 mt-5"> <img src="assets/images/1.jpg" alt="burger"></div>
@@ -215,3 +233,23 @@
 </article>
 
 @include('includes.footer')
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+<script>
+    function autoPlayYouTubeModal() {
+        var triggerOpen = $("body").find('[data-tagVideo]');
+        triggerOpen.click(function() {
+            var theModal = $(this).data("bs-target"),
+                videoSRC = $(this).attr("data-tagVideo"),
+                videoSRCauto = videoSRC + "?autoplay=1";
+            $(theModal + ' iframe').attr('src', videoSRCauto);
+            $(theModal + ' button.btn-close').click(function() {
+                $(theModal + ' iframe').attr('src', videoSRC);
+            });
+        });
+    }
+
+    $(document).ready(function() {
+        autoPlayYouTubeModal();
+    });
+</script>
