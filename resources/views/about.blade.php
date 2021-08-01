@@ -6,19 +6,19 @@
             <div class="container py-lg-8 py-md-7 py-5 mb-lg-9 mb-md-7 mb-5">
                 <div class="row gx-lg-0">
                     <div class="col-lg-6">
-                        <h2 class="my-3">About Tozee</h2>
+                        <h2 class="my-3">About Khan Enterprise</h2>
                         <div class="pr-lg-5">
-                            <p class="lead mt-3">Nullam augue lorem, varius eget nibh sit amet, consetetur sadipscing, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. eat vero accusam et justo duo dolores et ea rebum.</p>
-                            <p class="lead">Fusce sollicitudin eu sapien sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                            <p class="lead mt-3">Khan Enterprise founded in 1998 in Noakhali, Bangladesh. Since then the company has grown dramatically in both size and reputaion. We have built our repuration on our client focus and hands-on approach to become a trusted name in the civil engineering and construction business in Bangladesh. We have played diverse chords in the sector, handling mid to large scale constructions in niche areas including government projects, sea and land port constructions, road networks, bridges, buildings, office complex and wash facilities.</p>
+                            <p class="lead">Our team is armed with decades of experience in the architecture, engineering, procurement, construction and comissioning of civil construction projects across a wide range of sectors.</p>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-lg-0 mt-md-5 mt-5">
                         <div class="bg-black">
                             <div class="px-lg-6 pt-lg-0 pb-lg-6 px-md-4 py-md-5 px-4 py-5"><i class="fas fa-quote-left display-3 text-gray-500 margin mb-3"></i>
                                 <div class="mb-lg-5 mb-md-4 mb-4">
-                                    <p class="h5 mt-lg-4 mt-3 text-white font-weight-normal lh-base">adipisci qui natus expedita aut eum aut. Et ut repellendus ea quis autem reprehenderit volu ptatem. Amet totam dolor voluptates tenetur sit. Qui asperiores excepturi totam rerum volup tatem et neque pariatur.</p>
+                                    <p class="h5 mt-lg-4 mt-3 text-white font-weight-normal lh-base">We mainly work with the government of Bangladesh for implementing infrastructural developement projects. We are registered as a First Class contractor with the government of Bangladesh. Bangladesh has been withnessing tremendous development nowadays under the leadership of our honorable Prime Minister Sheikh Hasina. We are very proud to work for achieving her vision.</p>
                                 </div>
-                                <cite class="h5 font-normal text-yellow">Michael D. Wilson - Tozee chef</cite>
+                                <cite class="h5 font-normal text-yellow">Shohid Ullah Khan - CEO, Khan Enterprise</cite>
                             </div>
                         </div>
                     </div>
@@ -32,15 +32,29 @@
                     <div class="col-lg-6 py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
                         <div class="px-lg-0 px-md-0 px-2">
                             <h1 class="mb-3">Mission</h1>
-                            <p class="lead mb-3">diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consetetur.</p>
-                            <p class="lead mb-0">sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.</p>
+                            <p class="lead mb-3">Our mission is to be a world-class engineering and
+                                construction enterprise to serve the government
+                                development projects, private clients and society
+                                by providing quality construction, technical
+                                and management services.</p>
+                            <p class="lead mb-0">Uphold our firm
+                                commitment to excellence in engineering and
+                                innovation, and our dedication to serving with
+                                ethical principles, social responsibility, and
+                                care for our environment.</p>
                         </div>
                     </div>
                     <div class="col-lg-6 pt-lg-10 pb-lg-7 mt-lg-5">
                         <div class="bg-black">
                             <div class="py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
                                 <h1 class="text-yellow mb-3">Vision</h1>
-                                <p class="lead text-white mb-0">invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consetetur. dolore magna aliquyam erat, sed diam voluptua. accusam et justo duo</p>
+                                <p class="lead text-white mb-0">To be the leading engineering and
+                                    Construction Company, celebrated
+                                    for our optimum commitment,
+                                    methodologies, cutting edge
+                                    technology, and human resource
+                                    capabilities in the area of
+                                    infrastructural development.</p>
                             </div>
                         </div>
                     </div>
@@ -59,53 +73,28 @@
                         </div>
                     </div>
                     <div class="mt-5">
-                        <h5 class="mb-lg-3 mb-3">Collaborative</h5>
-                        <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
-                        </div>
-                    </div>
-                    <div class="mt-5">
                         <h5 class="mb-lg-3 mb-3">Trusted</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p>We mainly work with the government, joining its astronomical stride through infrastructural development. The quality we ensured in the projects we delivered endowed us with the status of a first-class contractor with the government of Bangladesh. Our sound relations with our partners and stakeholders strengthened our footing in the construction arena, helping us deal with multi-million-dollar projects in a range of sectors.</p>
                         </div>
                     </div>
                     <div class="mt-5">
-                        <h5 class="mb-lg-3 mb-3">Motivation</h5>
+                        <h5 class="mb-lg-3 mb-3">Quality Ensured</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p>We continue to invest in modern business practices and management techniques in order to ensure that we remain at the cutting edge of our industry. We continue to build on our reputation with our focus firmly on growing the ability of the business to deliver in new and innovative ways. Our ambition and goals for almost a century have always been to deliver quality projects and value for money to our clients; our success and reputation, today have been testament to this wisdom.</p>
                         </div>
                     </div>
                     <div class="mt-5">
                         <h5 class="mb-lg-3 mb-3">Focused</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p>As mega-projects are reshaping the growth of Bangladesh and transformation is happening in every sphere with quantifiable successes on global indices, we will keep complementing the government's effort to build a stronger foundation for infrastructure that will support and springboard the development the whole nation aligned their vision around. Since this soil is fertile for civil engineering maestros, our commitment is to keep building structures, that solidify the image of Bangladesh as a model for unrelenting growth in the world.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--Subscription form-->
-        <div class="container my-lg-9 my-md-7 my-6">
-            <div class="bg-yellow">
-                <div class="row py-lg-8 py-md-6 py-5 px-lg-0 px-md-0 px-4">
-                    <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 px-0">
-                        <div class="text-center">
-                            <h2 class="mb-4">keep up with the latest from tozee</h2>
-                            <p class="mb-5 mt-1 px-lg-5">Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et</p>
-                            <form>
-                                <div class="form-group row gx-lg-2">
-                                    <div class="col-md-9">
-                                        <input class="form-control" id="form_email" type="text" name="lname" placeholder="Email" required>
-                                    </div>
-                                    <div class="col-md-3 mt-2 mt-md-0"><a class="btn btn-outline-black d-block btn-top-0 rounded-0" href="#">SUBSCRIBE</a></div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        @include('includes.subscription-form')
     </div>
 </article>
 @include('includes.footer')

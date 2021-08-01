@@ -39,7 +39,7 @@
                         <div class="dropdown-menu"><a class="dropdown-item" href="/about">Short Story</a>
                             <a class="dropdown-item" href="/our-leader">Our Leader</a>
                             <a class="dropdown-item" href="/team">Team</a>
-                            <a class="dropdown-item" href="/testimonials">Testimonials</a>
+                            <a class="dropdown-item" href="/clients">Clients</a>
                             <a class="dropdown-item" href="/partners">Partners</a>
                         </div>
                     </li>
@@ -47,7 +47,7 @@
                 </ul>
                 <ul class="nav-modules list-unstyled d-md-flex align-items-center mx-3 mx-lg-0">
                     <!-- Social nav-->
-                    <li class="mr-lg-3 my-3 my-lg-0"><a class="text-black" href="page-contact.html">+19 855 518 386</a></li>
+                    <li class="mr-lg-3 my-3 my-lg-0"><a class="text-black" href="page-contact.html">+88 01919 017 358</a></li>
                     <li><a class="btn btn-outline-black-header text-black" href="/contact">Let's Talk</a></li>
                 </ul>
             </div>

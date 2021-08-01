@@ -6,8 +6,8 @@
             <div class="container py-lg-8 mb-lg-7 py-md-7 mb-md-5 py-5 mb-4">
                 <div class="row">
                     <div class="col-lg-6">
-                        <h2 class="my-3">Certified Partners​</h2>
-                        <p class="lead mb-3">Consetetur lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <h2 class="my-3">Major Clients</h2>
+                        <p class="lead mb-3">Over past decade, Khan Enterprise implements many complex projects of all types and sizes. Most of our solutions are for government of Bangladesh and private enterprise clients.</p>
                     </div>
                 </div>
             </div>
@@ -18,12 +18,12 @@
                     <div class="bg-yellow">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/1.png" alt="Meeting"></div>
+                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/81.jpg" alt="Meeting"></div>
                                 <div class="mt-lg-4 mt-5">
-                                    <h4>Investment Partner</h4>
+                                    <h4>Education engineering department, Ministry of Education, Government of Bangladesh</h4>
                                 </div>
                                 <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
                                 </div>
                             </div>
                         </div>
@@ -33,12 +33,12 @@
                     <div class="bg-yellow">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/2.png" alt="Meeting"></div>
+                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/82.jpg" alt="Meeting"></div>
                                 <div class="mt-lg-4 mt-5">
-                                    <h4>Bank Partner</h4>
+                                    <h4>Local government engineering department, Government of Bangladesh</h4>
                                 </div>
                                 <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
                                 </div>
                             </div>
                         </div>
@@ -48,12 +48,12 @@
                     <div class="bg-yellow">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/3.png" alt="Meeting"></div>
+                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/83.jpg" alt="Meeting"></div>
                                 <div class="mt-lg-4 mt-5">
-                                    <h4>Construction Partner</h4>
+                                    <h4>Roads and highways department, Government of Bangladesh</h4>
                                 </div>
                                 <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
                                 </div>
                             </div>
                         </div>
@@ -65,12 +65,12 @@
                     <div class="bg-yellow">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/4.png" alt="Meeting"></div>
+                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/84.jpg" alt="Meeting"></div>
                                 <div class="mt-lg-4 mt-5">
-                                    <h4>Bank Partner</h4>
+                                    <h4>Ministry of health and family welfare, Government of Bangladesh</h4>
                                 </div>
                                 <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
                                 </div>
                             </div>
                         </div>
@@ -80,32 +80,32 @@
                     <div class="bg-yellow">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/5.png" alt="Meeting"></div>
+                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/85.jpg" alt="Meeting"></div>
                                 <div class="mt-lg-4 mt-5">
-                                    <h4>Investment Partner</h4>
+                                    <h4>Noakhali Science and technology university, Noakhali</h4>
                                 </div>
                                 <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="bg-yellow">
-                        <div class="text-center align-items-center">
-                            <div class="px-lg-4 py-lg-5 px-4 py-5">
-                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/6.png" alt="Meeting"></div>
-                                <div class="mt-lg-4 mt-5">
-                                    <h4>Development Partner</h4>
-                                </div>
-                                <div class="px-lg-2 mt-lg-4 px-2 mt-3">
-                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                <div class="col-lg-4">--}}
+{{--                    <div class="bg-yellow">--}}
+{{--                        <div class="text-center align-items-center">--}}
+{{--                            <div class="px-lg-4 py-lg-5 px-4 py-5">--}}
+{{--                                <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/logo/6.png" alt="Meeting"></div>--}}
+{{--                                <div class="mt-lg-4 mt-5">--}}
+{{--                                    <h4>Development Partner</h4>--}}
+{{--                                </div>--}}
+{{--                                <div class="px-lg-2 mt-lg-4 px-2 mt-3">--}}
+{{--                                    <p>Aptent taciti sociosqu ad litora torquent per con ubia nos inceptos himenaeos. Pellentesque eget scelerisque turpis et consequat enim uisque at.</p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
         <!--Subscription form-->

@@ -7,7 +7,7 @@
                 <div class="row gx-lg-5 gx-md-5 gy-5">
                     <div class="col-lg-6 col-md-6">
                         <h2 class="my-3">Our Leader</h2>
-                        <p class="lead">Our forward-looking leadership team is made up of dedicated, focused and experienced executives.  Working with each other and with our employees worldwide, their knowledge and experience come together to make a difference for all our stakeholders – patients, healthcare providers, employees, investors and communities around the globe.</p>
+                        <p class="lead">Shohid Ullah Khan was born and raised in Bangladesh. With his presence in the civil engineering and construction business for over 25 years, he co-ordinated an array of projects, shoving his organization into the league of first-class contractors. He obtained Bachelor of Commerce degree from the National University. His academic background in commerce honed his acumen for business.</p>
                         <div class="mt-5"><img src="assets/images/19.jpg" alt="team"></div>
                         <div class="mt-5"><img src="assets/images/21.jpg" alt="team"></div>
                     </div>
@@ -16,14 +16,9 @@
                         <div class="mt-5 mr-lg-9 mr-md-6"><img src="assets/images/20.jpg" alt="team"></div>
                     </div>
                 </div>
-                <p class="mt-5">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,
-                    making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words,
-                    consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes
-                    from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on
-                    the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-                    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
-                    by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+                <p class="lead mt-5">As the country chases its next milestone of earning the middle-income status, a sounder infrastructure will pave the path towards realizing that goal. Shohid Ullah Khan secured his footprint on that trail, organizing construction projects for a wide range of establishments such as hospitals, universities and government offices. The built landscape in Bangladesh has undergone a paradigm shift in the last decade and his team is complementing the government’s unrelenting efforts in building sustainable structures, leading the nation towards better connectivity and smarter amenity.</p>
+                <p class="lead">He has a wealth of experience in balance use of business concept and social good approach. Apart from his business leadership, he also led his organization to promote economic, social and educational development for disadvantaged people, giving support to local initiatives. At the same time, he is working to realize his vision to protect the environment for the next generation.</p>
+                <p class="lead">From mega projects to GDP growth, Bangladesh is displaying, by all indicators, the sign of being the next Asian Tiger. Inspired by that prospect, Shohid Ullah Khan has put his heart to the goal of better infrastructure and unstoppable growth that 160 million people are dreaming of.</p>
             </div>
         </div>
         <!--Subscription form-->
@@ -33,7 +28,7 @@
                     <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 px-0">
                         <div class="text-center">
                             <h2 class="mb-4">See who are in our team</h2>
-                            <p class="mb-5 mt-1 px-lg-5">Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et</p>
+                            <p class="mb-5 mt-1 px-lg-5">Our team of experts and professional engineers that include architect, designers, civil engineers and other professional engineers and workers who are gaining experience from many years in the field of civil engineering.</p>
                             <form>
                                 <div class="form-group row gx-lg-2">
 {{--                                    <div class="col-md-9">--}}

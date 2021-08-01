@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h2 class="my-3">How We Can Help You</h2>
-                        <p class="lead">Consetetur lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <p class="lead">Since our formation we are committed to qualityful deliveries. Here are details of what Khan Enterprise offers for your next project.</p>
                     </div>
                 </div>
             </div>
@@ -23,9 +23,12 @@
                         <div class="bg-black">
                             <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                                 <div class="text-white pr-lg-4">
-                                    <h3 class="mb-4">Office Build-Outs And Expansion</h3>
-                                    <p class="mb-4">siam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. dolores et ea rebum vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                                    <p class="mb-4">sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
+                                    <h3 class="mb-4">Building architecture & construction</h3>
+                                    <p class="mb-4"><li>Building Design</li>
+                                                    <li>Modern Architecture</li>
+                                                    <li>Eco Friendly Complex</li>
+                                                    <li>Long lasting Structures</li></p>
+                                    <p class="mb-4">From our experience we can ensure quality and the best deal for medium to mega scale architecture with proper planning and timeline.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -41,9 +44,9 @@
                     <div class="bg-yellow">
                         <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                             <div class="pr-lg-4">
-                                <h3 class="mb-4">Virtual Design And Construction</h3>
-                                <p class="mb-4">siam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.  dolores et ea rebum vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
-                                <p class="mb-4">sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
+                                <h3 class="mb-4">Roads & utility networks</h3>
+                                <p class="mb-4">We are one of the first class contractor enlisted to the government of Bangladesh for road construction. we have kept our past promises for the projects we have finished so far. </p>
+                                <p class="mb-4">Starting from rural road development till the modern four lane road have been developed through our supervision.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -58,9 +61,9 @@
                     <div class="bg-black">
                         <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                             <div class="text-white pr-lg-4">
-                                <h3 class="mb-4">Metal Structure Production</h3>
-                                <p class="mb-4">siam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.  dolores et ea rebum vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
-                                <p class="mb-4">sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
+                                <h3 class="mb-4">Sea & Land port construction</h3>
+                                <p class="mb-4">Government of Bangladesh is moving fast for the overall development of the country. For gaining the target perimeter we are working hard with our expert hand to support them building land and sea ports which will play important role in the national economy. </p>
+                                <p class="mb-4">Experts from Khan Enterprise has already acquire the trust of the major clients about the capacity and clients are aware of qualityful structure.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -75,9 +78,9 @@
                     <div class="bg-yellow">
                         <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                             <div class="pr-lg-4">
-                                <h3 class="mb-4">Construction Management</h3>
-                                <p class="mb-4">siam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.  dolores et ea rebum vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
-                                <p class="mb-4">sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
+                                <h3 class="mb-4">Electrical & lighting systems</h3>
+                                <p class="mb-4"> We have already constructed some important national electrical facilities for the government of Bangladesh. The focus was secured and eco-friendly electrical facilities which is also meant to supply electricity safely.  </p>
+                                <p class="mb-4">Effective lighting systems in the roads with modern supplies has been already done in different part of the country.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -90,53 +93,34 @@
                 <div class="col-lg-6 order-lg-1"><img src="assets/images/9.jpg" alt="burger"></div>
                 <div class="col-lg-6 my-auto">
                     <div class="mt-5">
-                        <h2 class="font-weight-bold mb-lg-3 mb-3">Our Values</h2>
+                        <h2 class="font-weight-bold mb-lg-3 mb-3">We also provide</h2>
                         <div class="mt-lg-1 mt-1">
-                            <p class="pr-lg-5">Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit, consetetur sadipscing elitr.</p>
+                            <p class="pr-lg-5">As our perimeter of business we have increased the service offerings of Khan Enterpris. We also provide</p>
                         </div>
                     </div>
                     <div class="mt-5">
-                        <h5 class="mb-lg-3 mb-3">Collaborative</h5>
+                        <h5 class="mb-lg-3 mb-3">Export & Import</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p>We can support export and importing good in bulk amounts for industrial and commercial purposes. Most of our clients for such service are government of Bangladesh.</p>
                         </div>
                     </div>
                     <div class="mt-5">
-                        <h5 class="mb-lg-3 mb-3">Trusted</h5>
+                        <h5 class="mb-lg-3 mb-3">Earth works</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p>Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p>Earth work service covers digging, transferring earth and preparing place for any infrastructure. Our technological empowered machineries has already taken us one step ahead.</p>
                         </div>
                     </div>
                     <div class="mt-5">
-                        <h5 class="mb-lg-3 mb-3">Focused</h5>
+                        <h5 class="mb-lg-3 mb-3">Supplies</h5>
                         <div class="mt-lg-1 mt-1">
-                            <p class="mb-0">Consetetur Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam Voluptua. At Vero Eos Accusamjusto Duo Et.</p>
+                            <p class="mb-0">We also offer essential supplies for construction sites. Our transparent pricing and commitment has been already earned fame in this industry.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--Subscription form-->
-        <div class="container my-lg-9 my-md-7 my-6">
-            <div class="bg-yellow">
-                <div class="row py-lg-8 py-md-6 py-6 px-lg-0 px-md-0 px-4">
-                    <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 px-0">
-                        <div class="text-center">
-                            <h2 class="mb-4">keep up with the latest from tozee</h2>
-                            <p class="mb-5 mt-1 px-lg-5">Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et</p>
-                            <form>
-                                <div class="form-group row gx-lg-2">
-                                    <div class="col-md-9">
-                                        <input class="form-control" id="form_email" type="text" name="lname" placeholder="Email" required>
-                                    </div>
-                                    <div class="col-md-3 mt-2 mt-md-0"><a class="btn btn-outline-black d-block btn-top-0 rounded-0" href="#">SUBSCRIBE</a></div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        @include('includes.subscription-form')
     </div>
 </article>
 @include('includes.footer')

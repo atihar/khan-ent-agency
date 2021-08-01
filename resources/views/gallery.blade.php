@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h2 class="my-3">Our Gallery</h2>
-                        <p class="lead mb-3">Consetetur lorem ipsum dolor sit amet, sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <p class="lead mb-3">Memorable shots from our daily activities and client's projects</p>
                     </div>
                 </div>
             </div>
@@ -26,13 +26,35 @@
                 <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="https://images.pexels.com/photos/5686647/pexels-photo-5686647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-thumbnail" alt="khan-enterprise-gallery">
+                            <img src="assets/images/gallery/1.jpg" class="img-thumbnail" alt="khan-enterprise-gallery">
                         </div>
                         <div class="col-md-4">
-                            <img src="https://images.pexels.com/photos/8266933/pexels-photo-8266933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-thumbnail" alt="khan-enterprise-gallery">
+                            <img src="assets/images/gallery/2.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
                         </div>
                         <div class="col-md-4">
-                            <img src="https://images.pexels.com/photos/6791447/pexels-photo-6791447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-thumbnail" alt="khan-enterprise-gallery">
+                            <img src="assets/images/gallery/3.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/4.jpg" class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/5.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/6.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/7.jpg" class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/8.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="assets/images/gallery/9.jpg"  class="img-thumbnail" alt="khan-enterprise-gallery">
                         </div>
                     </div>
                 </div>
@@ -61,6 +83,7 @@
                 </div>
         </div>
     </div>
+    @include('includes.subscription-form')
 </article>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 @include('includes.footer')
