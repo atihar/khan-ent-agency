@@ -63,20 +63,51 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="embed-responsive embed-responsive-16by9">
-{{--                                <iframe  src="https://www.youtube.com/embed/j5-yKhDd64s" allowfullscreen></iframe>--}}
-                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/D14nQnVYPYE?list=RDMMD14nQnVYPYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/BMx0ZI7xosI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                </div>
                         </div>
                         <div class="col-md-4">
                             <div class="embed-responsive embed-responsive-16by9">
-                                {{--                                <iframe  src="https://www.youtube.com/embed/j5-yKhDd64s" allowfullscreen></iframe>--}}
-                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/D14nQnVYPYE?list=RDMMD14nQnVYPYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/cB3I0uHv4e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="embed-responsive embed-responsive-16by9">
-                                {{--                                <iframe  src="https://www.youtube.com/embed/j5-yKhDd64s" allowfullscreen></iframe>--}}
-                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/D14nQnVYPYE?list=RDMMD14nQnVYPYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/QbCXbVd5xCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pt-5">
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/LTFG-7Cl-zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/-Fc5EYyB4VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/i44PaSS-zq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pt-5">
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/l0L76vyP3X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/enYYvgTRX-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" width="1280" height="720" src="https://www.youtube.com/embed/n1ODVcUx3PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
