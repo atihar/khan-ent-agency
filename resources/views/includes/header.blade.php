@@ -27,7 +27,7 @@
 <!-- Navbar-->
 <div class="site-header header-bottom-area">
     <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container"><a class="navbar-brand" href="/"><img class="site-logo" src="assets/images/logo.png" alt="Logo"></a>
+        <div class="container"><a class="navbar-brand" href="/"><img class="site-logo" src="assets/images/logo/logo-main.png" alt="Logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav mx-auto">
@@ -47,8 +47,8 @@
                 </ul>
                 <ul class="nav-modules list-unstyled d-md-flex align-items-center mx-3 mx-lg-0">
                     <!-- Social nav-->
-                    <li class="mr-lg-3 my-3 my-lg-0"><a class="text-black" href="page-contact.html">+88 01919 017 358</a></li>
-                    <li><a class="btn btn-outline-black-header text-black" href="/contact">Let's Talk</a></li>
+                    <li class="mr-lg-3 my-3 my-lg-0"><a class="text-white" href="page-contact.html">+88 01919 017 358</a></li>
+                    <li><a class="btn btn-outline-black-header text-white" href="/contact">Let's Talk</a></li>
                 </ul>
             </div>
         </div>

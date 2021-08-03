@@ -1,6 +1,6 @@
 <!--Subscription form-->
 <div class="container my-lg-9 my-md-7 my-6">
-    <div class="bg-yellow">
+    <div class="bg-theme-color">
         <div class="row py-lg-8 py-md-6 py-6 px-lg-0 px-md-0 px-4">
             <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 px-0">
                 <div class="text-center">

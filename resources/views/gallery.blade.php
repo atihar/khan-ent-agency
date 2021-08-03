@@ -2,7 +2,7 @@
 <article class="entry">
     <div class="entry-content">
         <!-- Hero-->
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container py-lg-8 mb-lg-7 py-md-7 mb-md-5 py-5 mb-4">
                 <div class="row">
                     <div class="col-lg-6">

@@ -3,7 +3,7 @@
 <article class="entry">
     <div class="entry-content">
         <!-- head main-->
-        <div class="bg-yellow">
+        <div class="bg-theme-color" style="background-image: url('assets/images/logo/logo-outlined.svg');">
             <div class="container pt-lg-8 pb-lg-5 pt-md-7 pb-md-5 pt-5 pb-4">
                 <div class="row">
                     <div class="col-lg-6">
@@ -28,7 +28,7 @@
                                                     <li>Modern Architecture</li>
                                                     <li>Eco Friendly Complex</li>
                                                     <li>Long lasting Structures</li></p>
-                                    <p class="mb-4">From our experience we can ensure quality and the best deal for medium to mega scale architecture with proper planning and timeline.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
+                                    <p class="mb-4">From our experience we can ensure quality and the best deal for medium to mega scale architecture with proper planning and timeline.</p><a class="btn btn-outline-secondary mt-3" href="#">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -41,12 +41,12 @@
                 <div class="col-12 d-lg-none"><img src="assets/images/11.jpg" alt="project"></div>
                 <div class="col-lg-6 service-2"></div>
                 <div class="col-lg-6 order-lg-1">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                             <div class="pr-lg-4">
                                 <h3 class="mb-4">Roads & utility networks</h3>
                                 <p class="mb-4">We are one of the first class contractor enlisted to the government of Bangladesh for road construction. we have kept our past promises for the projects we have finished so far. </p>
-                                <p class="mb-4">Starting from rural road development till the modern four lane road have been developed through our supervision.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
+                                <p class="mb-4">Starting from rural road development till the modern four lane road have been developed through our supervision.</p><a class="btn btn-outline-white mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
                             <div class="text-white pr-lg-4">
                                 <h3 class="mb-4">Sea & Land port construction</h3>
                                 <p class="mb-4">Government of Bangladesh is moving fast for the overall development of the country. For gaining the target perimeter we are working hard with our expert hand to support them building land and sea ports which will play important role in the national economy. </p>
-                                <p class="mb-4">Experts from Khan Enterprise has already acquire the trust of the major clients about the capacity and clients are aware of qualityful structure.</p><a class="btn btn-outline-primary mt-3" href="#">Read More</a>
+                                <p class="mb-4">Experts from Khan Enterprise has already acquire the trust of the major clients about the capacity and clients are aware of qualityful structure.</p><a class="btn btn-outline-secondary mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -75,12 +75,12 @@
                 <div class="col-12 d-lg-none"><img src="assets/images/13.jpg" alt="project"></div>
                 <div class="col-lg-6 service-4"></div>
                 <div class="col-lg-6 order-lg-1">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="py-lg-7 px-lg-6 py-md-6 px-md-5 py-5 px-4">
                             <div class="pr-lg-4">
                                 <h3 class="mb-4">Electrical & lighting systems</h3>
                                 <p class="mb-4"> We have already constructed some important national electrical facilities for the government of Bangladesh. The focus was secured and eco-friendly electrical facilities which is also meant to supply electricity safely.  </p>
-                                <p class="mb-4">Effective lighting systems in the roads with modern supplies has been already done in different part of the country.</p><a class="btn btn-outline-black mt-3" href="#">Read More</a>
+                                <p class="mb-4">Effective lighting systems in the roads with modern supplies has been already done in different part of the country.</p><a class="btn btn-outline-white mt-3" href="#">Read More</a>
                             </div>
                         </div>
                     </div>

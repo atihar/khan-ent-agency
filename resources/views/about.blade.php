@@ -2,7 +2,7 @@
 <article class="entry mb-7">
     <div class="entry-content">
         <!--about us top-->
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container py-lg-8 py-md-7 py-5 mb-lg-9 mb-md-7 mb-5">
                 <div class="row gx-lg-0">
                     <div class="col-lg-6">
@@ -18,7 +18,7 @@
                                 <div class="mb-lg-5 mb-md-4 mb-4">
                                     <p class="h5 mt-lg-4 mt-3 text-white font-weight-normal lh-base">We mainly work with the government of Bangladesh for implementing infrastructural developement projects. We are registered as a First Class contractor with the government of Bangladesh. Bangladesh has been withnessing tremendous development nowadays under the leadership of our honorable Prime Minister Sheikh Hasina. We are very proud to work for achieving her vision.</p>
                                 </div>
-                                <cite class="h5 font-normal text-yellow">Shohid Ullah Khan - CEO, Khan Enterprise</cite>
+                                <cite class="h5 font-normal text-theme-color">Shohid Ullah Khan - CEO, Khan Enterprise</cite>
                             </div>
                         </div>
                     </div>
@@ -31,13 +31,13 @@
                 <div class="row gx-lg-0">
                     <div class="col-lg-6 py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
                         <div class="px-lg-0 px-md-0 px-2">
-                            <h1 class="mb-3">Mission</h1>
-                            <p class="lead mb-3">Our mission is to be a world-class engineering and
+                            <h1 class="mb-3 text-white">Mission</h1>
+                            <p class="lead mb-3 text-white">Our mission is to be a world-class engineering and
                                 construction enterprise to serve the government
                                 development projects, private clients and society
                                 by providing quality construction, technical
                                 and management services.</p>
-                            <p class="lead mb-0">Uphold our firm
+                            <p class="lead mb-0 text-white">Uphold our firm
                                 commitment to excellence in engineering and
                                 innovation, and our dedication to serving with
                                 ethical principles, social responsibility, and
@@ -47,7 +47,7 @@
                     <div class="col-lg-6 pt-lg-10 pb-lg-7 mt-lg-5">
                         <div class="bg-black">
                             <div class="py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
-                                <h1 class="text-yellow mb-3">Vision</h1>
+                                <h1 class="text-theme-color mb-3">Vision</h1>
                                 <p class="lead text-white mb-0">To be the leading engineering and
                                     Construction Company, celebrated
                                     for our optimum commitment,

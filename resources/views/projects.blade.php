@@ -1,7 +1,7 @@
 @include('includes.header')
 <article class="entry">
     <div class="entry-content">
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container pt-lg-8 pb-lg-6 pt-md-7 pb-md-5 pt-5 pb-4">
                 <div class="row">
                     <div class="col-lg-6">
@@ -18,43 +18,43 @@
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/3.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">BD ecrrp school cyclone shelter</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">BD ecrrp school cyclone shelter</a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/4.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">Cumilla-Noakhali Four Lane Road</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">Cumilla-Noakhali Four Lane Road</a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/5.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">Noakhali Government College Building</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">Noakhali Government College Building</a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/28.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">Multipurpose Architecture and Construction</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">Multipurpose Architecture and Construction</a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/66.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">Payra Sea Port, Patuakhali </a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">Payra Sea Port, Patuakhali </a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/67.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">Mirsarai road construction, Chittagong</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="#">Mirsarai road construction, Chittagong</a></h2>
                         </div>
                     </article>
                     <article class="portfolio-item">
                         <div class="entry-media"><img src="assets/images/68.jpg" alt="project"></div>
                         <div class="entry-content-wrapper">
-                            <h2 class="entry-title"><a href="portfolio-single-project.html">JMC campus construction</a></h2>
+                            <h2 class="entry-title"><a class="text-white" href="portfolio-single-project.html">JMC campus construction</a></h2>
                         </div>
                     </article>
                 </div>

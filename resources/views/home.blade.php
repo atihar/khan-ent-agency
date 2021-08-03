@@ -7,30 +7,16 @@
             <div class="container py-lg-8 py-md-8 py-5">
                 <div class="row gx-lg-5 mt-lg-3">
                     <div class="col-lg-6 col-md-8">
-                        <h1 class="text-black mb-4">Khan Ent is a leading construction and infrastructure services company</h1>
-                        <p class="mb-5">As mega-projects are reshaping the growth of Bangladesh and transformation is happening in every sphere with quantifiable successes on global indices, we will keep complementing the government's effort to build a stronger foundation for infrastructure that will support and springboard the development the whole nation aligned their vision around.</p>
-                       <div class="pb-md-2 d-inline"><a class="btn btn-outline-black" href="/about">ABOUT US</a></div>
-                       <div class="pb-md-2 d-inline"><a class="btn btn-black" data-bs-toggle="modal" data-tagVideo="https://www.youtube.com/embed/sU1MZU3MJXM" data-bs-target="#videoModal">Watch Intro</a></div>
+                        <h1 class="text-white mb-4">Khan Ent is a leading construction and infrastructure services company</h1>
+                        <p class="mb-5 text-white">As mega-projects are reshaping the growth of Bangladesh and transformation is happening in every sphere with quantifiable successes on global indices, we will keep complementing the government's effort to build a stronger foundation for infrastructure that will support and springboard the development the whole nation aligned their vision around.</p>
+                       <div class="pb-md-2 d-inline"><a class="btn btn-outline-white" href="/about">ABOUT US</a></div>
 
-                        {{--modal start--}}
-                        <div class="modal fade" id="videoModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-xl">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">close</button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="ratio ratio-16x9">
-                                            <iframe height="600" width="1100" src="" allow="autoplay;" allowfullscreen></iframe>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    {{--modal end   --}}
                     </div>
-                    <div class="col-lg-6">
-                        <div class="mt-lg-0 mt-md-5 mt-5"> <img src="assets/images/1.jpg" alt="burger"></div>
+                    <div class="col-lg-6 pt-6 pb-10">
+{{--                        <div class="mt-lg-0 mt-md-5 mt-5"> <img src="assets/images/1.jpg" alt="burger"></div>--}}
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sU1MZU3MJXM"></iframe>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -38,8 +24,8 @@
         <div class="container">
             <div class="row mb-2">
                 <div class="col-lg-4 col-md-6">
-                    <div class="pr-lg-5">
-                        <h2>Working with leading construction company</h2>
+                    <div class="pr-lg-3">
+                        <h2>Working as a First Class Contractor for the Govt. of Bangladesh</h2>
                     </div>
                 </div>
             </div>
@@ -53,55 +39,43 @@
             </div>
             <div class="row mt-lg-6 mb-lg-9 mt-md-5 mb-md-8 mb-5">
                 <div class="col-lg-3 col-md-6 mt-lg-0 mt-md-0 mt-4">
-                    <div class="col-4">
-                        <div class="custom-font">23</div>
-                    </div>
-                    <h5 class="mt-6">Years of services </h5>
+                        <img src="assets/images/81.jpg" alt="Gov of Bangladesh">
                 </div>
                 <div class="col-lg-3 col-md-6 mt-lg-0 mt-md-0 mt-5">
-                    <div class="col-4">
-                        <div class="custom-font">68</div>
-                    </div>
-                    <h5 class="mt-6">Civil and govt projects </h5>
+                        <img src="assets/images/82.jpg" alt="Meeting">
                 </div>
                 <div class="col-lg-3 col-md-6 mt-lg-0 mt-5">
-                    <div class="col-4">
-                        <div class="custom-font">350</div>
-                    </div>
-                    <h5 class="mt-6">Commercial building </h5>
+                        <img src="assets/images/83.jpg" alt="Meeting">
                 </div>
                 <div class="col-lg-3 col-md-6 mt-lg-0 mt-5">
-                    <div class="col-4">
-                        <div class="custom-font">1100</div>
-                    </div>
-                    <h5 class="mt-6">Employees</h5>
+                        <img src="assets/images/84.jpg" alt="Meeting">
                 </div>
             </div>
         </div>
         <!-- working arround the world  -->
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container py-lg-9 py-md-7 py-6">
                 <div class="row gx-lg-5">
-                    <div class="col-lg-6"><img src="assets/images/2.jpg" alt="burger"></div>
+                    <div class="col-lg-6"><img src="assets/images/2.png" alt="khan-enterprise"></div>
                     <div class="col-lg-6 pr-lg-7 my-auto mt-md-6 mt-5">
                         <h2>How we ensure balanced ecosystem?</h2>
                         <p class="mt-3">Khan Enterprise has developed a balanced ecosystem across management, project quality and its overall arena.</p>
                         <div class="row mt-lg-6 mt-md-5 mt-5 gx-lg-5 gx-lg-8">
-                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 fab fa-envira btn-outline-black-1 py-3 px-3"></i></div>
+                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 fab fa-envira btn-outline-black-1 py-3 px-3" style="border-color: white;"></i></div>
                             <div class="col-lg-10">
                                 <h5>Environmental management system</h5>
                                 <p class="mt-3">We follow sustainable best practice in constructing structures which may last centuries.</p>
                             </div>
                         </div>
                         <div class="row mt-lg-5 mt-md-5 mt-4 gx-lg-5 gx-lg-8">
-                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 far fa-building btn-outline-black-1 py-3 px-3"></i></div>
+                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 far fa-building btn-outline-black-1 py-3 px-3" style="border-color: white;"></i></div>
                             <div class="col-lg-10">
                                 <h5>Quality management system</h5>
                                 <p class="mt-3">A comprehensive set of procedures and controls which are documented in accordance global standard.</p>
                             </div>
                         </div>
                         <div class="row mt-lg-5 mt-md-5 mt-4 gx-lg-5 gx-lg-8">
-                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 fas fa-file-medical btn-outline-black-1 py-3 px-3"></i></div>
+                            <div class="col-lg-2 mb-3 mb-lg-0"><i class="h3 fas fa-file-medical btn-outline-black-1 py-3 px-3" style="border-color: white;"></i></div>
                             <div class="col-lg-10">
                                 <h5>Health, safety & injury prevention policy</h5>
                                 <p class="mt-3 mb-0">It is designed to prevent workplace incidents, injuries and illnesses which is maintained on all job site locations.</p>
@@ -118,19 +92,19 @@
                 <article class="portfolio-item">
                     <div class="entry-media"><img src="assets/images/3.jpg" alt="project"></div>
                     <div class="entry-content-wrapper">
-                        <div class="entry-title"><a href="portfolio-single-project.html">BD ecrrp school cyclone shelter</a></div>
+                        <div class="entry-title"><a class="text-white" href="/portfolio">BD ecrrp school cyclone shelter</a></div>
                     </div>
                 </article>
                 <article class="portfolio-item">
                     <div class="entry-media"><img src="assets/images/4.jpg" alt="project"></div>
                     <div class="entry-content-wrapper">
-                        <div class="entry-title"><a href="portfolio-single-project.html">Cumilla-Noakhali Four Lane Road</a></div>
+                        <div class="entry-title"><a class="text-white" href="/portfolio">Cumilla-Noakhali Four Lane Road</a></div>
                     </div>
                 </article>
                 <article class="portfolio-item">
                     <div class="entry-media"><img src="assets/images/5.jpg" alt="project"></div>
                     <div class="entry-content-wrapper">
-                        <div class="entry-title"><a href="portfolio-single-project.html">Noakhali Government College Building</a></div>
+                        <div class="entry-title"><a class="text-white" href="/portfolio">Noakhali Government College Building</a></div>
                     </div>
                 </article>
             </div>
@@ -146,9 +120,9 @@
                     <div class="col-lg-5 py-lg-7 order-lg-1"><img src="assets/images/6.jpg" alt="project"></div>
                     <div class="col-lg-7 px-lg-6 py-lg-7 px-md-6 py-md-6 px-5 py-5"><i class="custom-icon fas fa-quote-left mb-4"></i>
                         <div class="pr-lg-4">
-                            <p class="lead mt-2 mt-lg-3 mb-lg-5 mb-md-4 mb-4">We mainly work with the government of Bangladesh for implementing infrastructural developement projects. We are registered as a First Class contractor with the government of Bangladesh. Bangladesh has been withnessing tremendous development nowadays under the leadership of our honorable Prime Minister Sheikh Hasina. We are very proud to work for achieving her vision.</p>
+                            <p class="lead mt-2 mt-lg-3 mb-lg-5 mb-md-4 mb-4 text-white">We mainly work with the government of Bangladesh for implementing infrastructural developement projects. We are registered as a First Class contractor with the government of Bangladesh. Bangladesh has been withnessing tremendous development nowadays under the leadership of our honorable Prime Minister Sheikh Hasina. We are very proud to work for achieving her vision.</p>
                         </div>
-                        <h5>Shohid Ullah Khan - CEO, Khan Enterprise</h5>
+                        <h5 class="text-white">Shohid Ullah Khan - CEO, Khan Enterprise</h5>
                     </div>
                 </div>
             </div>

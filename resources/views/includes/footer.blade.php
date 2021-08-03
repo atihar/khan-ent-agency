@@ -5,8 +5,8 @@
             <div class="row gx-lg-5">
                 <div class="col-lg-3">
                     <div class="footer-widget footer-widget-1">
-                        <h4 class="mb-3 text-yellow">399/2 (2nd Floor), East Nakhalpara, Tejgaon, Dhaka 1215, BD</h4>
-                        <h4 class="text-yellow">+88 01919 017 358 info@khanenterprise.xyz</h4>
+                        <h5 class="mb-3 text-theme-color">399/2 (2nd Floor), East Nakhalpara, Tejgaon, Dhaka 1215, BD</h5>
+                        <h5 class="text-theme-color">+88 01919 017 358 info@khanenterprise.xyz</h5>
                         <ul class="list-unstyled list-inline mt-5 mb-5 mb-md-0">
                             <li class="list-inline-item border border-white py-2 px-3"><a class="text-white" href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="list-inline-item border border-white py-2 px-3"><a class="text-white" href="#"><i class="fab fa-instagram"></i></a></li>

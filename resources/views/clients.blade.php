@@ -2,7 +2,7 @@
 <article class="entry">
     <div class="entry-content">
         <!-- Hero-->
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container py-lg-8 mb-lg-7 py-md-7 mb-md-5 py-5 mb-4">
                 <div class="row">
                     <div class="col-lg-6">
@@ -15,7 +15,7 @@
         <div class="container mt-lg-9 mt-5 mb-lg-9 mb-md-7 mb-6">
             <div class="row gx-lg-5 gy-5 mb-5">
                 <div class="col-lg-4">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
                                 <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/81.jpg" alt="Meeting"></div>
@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
                                 <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/82.jpg" alt="Meeting"></div>
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
                                 <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/83.jpg" alt="Meeting"></div>
@@ -62,7 +62,7 @@
             </div>
             <div class="row gx-lg-5 gy-5">
                 <div class="col-lg-4">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
                                 <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/84.jpg" alt="Meeting"></div>
@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="bg-yellow">
+                    <div class="bg-theme-color">
                         <div class="text-center align-items-center">
                             <div class="px-lg-4 py-lg-5 px-4 py-5">
                                 <div class="px-lg-5 mt-lg-4 px-5 mt-4 mb-5"><img src="assets/images/85.jpg" alt="Meeting"></div>
@@ -110,7 +110,7 @@
         </div>
         <!--Subscription form-->
         <div class="container my-lg-9 my-md-7 my-6">
-            <div class="bg-yellow">
+            <div class="bg-theme-color">
                 <div class="row py-lg-8 py-md-6 py-6 px-lg-0 px-md-0 px-4">
                     <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 px-0">
                         <div class="text-center">

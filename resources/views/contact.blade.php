@@ -2,7 +2,7 @@
 <!-- End Navbar-->
 <article class="entry">
     <div class="entry-content">
-        <div class="bg-yellow">
+        <div class="bg-theme-color">
             <div class="container py-lg-8 py-md-7 py-6">
                 <div class="row mt-lg-3">
                     <div class="col-lg-6">
