@@ -90,19 +90,19 @@
             <h2 class="mb-lg-5 mb-md-4 mb-3">Portfolio</h2>
             <div class="portfolio-list">
                 <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/3.jpg" alt="project"></div>
+                    <div class="entry-media"><img src="assets/images/3.jpg" alt="cyclone-shelter"></div>
                     <div class="entry-content-wrapper">
                         <div class="entry-title"><a class="text-white" href="/portfolio">BD ecrrp school cyclone shelter</a></div>
                     </div>
                 </article>
                 <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/4.jpg" alt="project"></div>
+                    <div class="entry-media"><img src="assets/images/4.jpg" alt="comilla-noakhali-road"></div>
                     <div class="entry-content-wrapper">
                         <div class="entry-title"><a class="text-white" href="/portfolio">Cumilla-Noakhali Four Lane Road</a></div>
                     </div>
                 </article>
                 <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/5.jpg" alt="project"></div>
+                    <div class="entry-media"><img src="assets/images/5.jpg" alt="noakhali-government-college"></div>
                     <div class="entry-content-wrapper">
                         <div class="entry-title"><a class="text-white" href="/portfolio">Noakhali Government College Building</a></div>
                     </div>
@@ -117,7 +117,7 @@
         <div class="container mb-lg-9 mb-md-7 mb-5">
             <div class="seventy-five-percent-bg-yellow">
                 <div class="row">
-                    <div class="col-lg-5 py-lg-7 order-lg-1"><img src="assets/images/6.jpg" alt="project"></div>
+                    <div class="col-lg-5 py-lg-7 order-lg-1"><img src="assets/images/6.jpg" alt="khan-enterprise"></div>
                     <div class="col-lg-7 px-lg-6 py-lg-7 px-md-6 py-md-6 px-5 py-5"><i class="custom-icon fas fa-quote-left mb-4"></i>
                         <div class="pr-lg-4">
                             <p class="lead mt-2 mt-lg-3 mb-lg-5 mb-md-4 mb-4 text-white">We mainly work with the government of Bangladesh for implementing infrastructural developement projects. We are registered as a First Class contractor with the government of Bangladesh. Bangladesh has been withnessing tremendous development nowadays under the leadership of our honorable Prime Minister Sheikh Hasina. We are very proud to work for achieving her vision.</p>
@@ -134,7 +134,7 @@
             <div class="row gx-lg-5 gx-lg-3 blog-post card-post-style">
                 <div class="col-lg-4 col-12">
                     <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b1-lqip.jpg" data-src="assets/images/blog/b1.jpg" alt="Entry Image"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
+                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b1-lqip.jpg" data-src="assets/images/blog/b1.jpg" alt="blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
                         </figure>
                         <div class="entry-content-wrapper">
                             <header class="entry-header">
@@ -149,7 +149,7 @@
                 </div>
                 <div class="col-lg-4 col-12">
                     <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b2-lqip.jpg" data-src="assets/images/blog/b2.jpg" alt="Entry Image"/><span class="entry-meta-category"><a href="blog-three-col.html">Architecture</a></span>
+                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b2-lqip.jpg" data-src="assets/images/blog/b2.jpg" alt="Blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Architecture</a></span>
                         </figure>
                         <div class="entry-content-wrapper">
                             <header class="entry-header">
@@ -164,7 +164,7 @@
                 </div>
                 <div class="col-lg-4 col-12">
                     <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b3-lqip.jpg" data-src="assets/images/blog/b3.jpg" alt="Entry Image"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
+                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b3-lqip.jpg" data-src="assets/images/blog/b3.jpg" alt="Blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
                         </figure>
                         <div class="entry-content-wrapper">
                             <header class="entry-header">
