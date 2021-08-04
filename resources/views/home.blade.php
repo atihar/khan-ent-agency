@@ -56,7 +56,7 @@
         <div class="bg-theme-color">
             <div class="container py-lg-9 py-md-7 py-6">
                 <div class="row gx-lg-5">
-                    <div class="col-lg-6"><img src="assets/images/2.png" alt="khan-enterprise"></div>
+                    <div class="col-lg-6"><img src="assets/images/2.jpg" alt="khan-enterprise"></div>
                     <div class="col-lg-6 pr-lg-7 my-auto mt-md-6 mt-5">
                         <h2>How we ensure balanced ecosystem?</h2>
                         <p class="mt-3">Khan Enterprise has developed a balanced ecosystem across management, project quality and its overall arena.</p>
@@ -86,27 +86,55 @@
             </div>
         </div>
         <!-- portfoio-->
-        <div class="container mt-lg-9 mt-md-7 mt-6">
-            <h2 class="mb-lg-5 mb-md-4 mb-3">Portfolio</h2>
-            <div class="portfolio-list">
-                <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/3.jpg" alt="cyclone-shelter"></div>
-                    <div class="entry-content-wrapper">
-                        <div class="entry-title"><a class="text-white" href="/portfolio">BD ecrrp school cyclone shelter</a></div>
+{{--        removed--}}
+        <!-- mission and vision-->
+        <div class="container mb-lg-9 mb-md-7 mb-5 mt-5">
+            <div class="seventy-percent-bg-yellow">
+                <div class="row gx-lg-0">
+                    <div class="col-lg-6 py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
+                        <div class="px-lg-0 px-md-0 px-2">
+                            <h1 class="mb-3 text-white">Mission</h1>
+                            <p class="lead mb-3 text-white">Our mission is to be a world-class engineering and
+                                construction enterprise to serve the government
+                                development projects, private clients and society
+                                by providing quality construction, technical
+                                and management services.</p>
+                            <p class="lead mb-0 text-white">Uphold our firm
+                                commitment to excellence in engineering and
+                                innovation, and our dedication to serving with
+                                ethical principles, social responsibility, and
+                                care for our environment.</p>
+                        </div>
                     </div>
-                </article>
-                <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/4.jpg" alt="comilla-noakhali-road"></div>
-                    <div class="entry-content-wrapper">
-                        <div class="entry-title"><a class="text-white" href="/portfolio">Cumilla-Noakhali Four Lane Road</a></div>
+                    <div class="col-lg-6 pt-lg-10 pb-lg-7 mt-lg-5">
+                        <div class="bg-black">
+                            <div class="py-lg-6 px-lg-6 py-md-5 px-md-5 py-5 px-4">
+                                <h1 class="text-theme-color mb-3">Vision</h1>
+                                <p class="lead text-white mb-0">To be the leading engineering and
+                                    Construction Company, celebrated
+                                    for our optimum commitment,
+                                    methodologies, cutting edge
+                                    technology, and human resource
+                                    capabilities in the area of
+                                    infrastructural development.</p>
+                            </div>
+                        </div>
                     </div>
-                </article>
-                <article class="portfolio-item">
-                    <div class="entry-media"><img src="assets/images/5.jpg" alt="noakhali-government-college"></div>
-                    <div class="entry-content-wrapper">
-                        <div class="entry-title"><a class="text-white" href="/portfolio">Noakhali Government College Building</a></div>
+                </div>
+{{--                our values--}}
+                <div class="row gx-lg-5 bg-light p-5">
+                    <h2 class="mb-3">Our Values</h2>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="lead mb-3 "><span class="font-weight-bold">Integrity:</span> We carry out the projects in good faith with shouldering optimal responsibility and maintaining transparency and accountability in the course of performing our job. We commit to systems which are secure, reliable and accurate.</p>
+                        <p class="lead mb-3 "><span class="font-weight-bold">Innovation:</span> To create high values in cooperation with our clients by applying our wisdom and innovation to the greatest extent.</p>
+                        <p class="lead mb-3 "><span class="font-weight-bold">Teamwork:</span> We value the individuality and contribution of all colleagues for working in support of each other and sharing good practice as well as in cooperation with our clients and partners to acheive a high performance.</p>
                     </div>
-                </article>
+                    <div class="col-lg-6 col-md-12">
+                        <p class="lead mb-3 "><span class="font-weight-bold">Safety:</span> We always think and act safely while implementing our projects and always assess the impact of our activities on the environment, designing balanced solutions that are respectful to the environment.</p>
+                        <p class="lead mb-3 pb-4"><span class="font-weight-bold">Diversity:</span> To respond to the variety of work and tasks in a flexible manner while viewing them from different angles as well as respect the cultire and costume.</p>
+                        <p class="lead mb-3 "><span class="font-weight-bold">Learning:</span> To acquire new experience, skills and knowledge with an enterprising spirit, we learn from our mistakes and we always look into technological advancements for improving continiously</p>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- button-->
@@ -128,58 +156,7 @@
             </div>
         </div>
         <!-- blog-->
-        <div class="container my-lg-9 my-md-7 my-6">
-            <h2 class="mb-lg-5 mb-md-4 mb-3">Insights</h2>
-            <!-- Blog-->
-            <div class="row gx-lg-5 gx-lg-3 blog-post card-post-style">
-                <div class="col-lg-4 col-12">
-                    <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b1-lqip.jpg" data-src="assets/images/blog/b1.jpg" alt="blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
-                        </figure>
-                        <div class="entry-content-wrapper">
-                            <header class="entry-header">
-                                <!--+entryMetaTop(item.author, item.date, item.commentCount, item.isEdit) -->
-                                <h2 class="entry-title"><a href="#">18 New Roads Schemes A Step Closer To Delivery</a></h2>
-                            </header>
-                            <div class="entry-content">
-                                <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem</p>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-lg-4 col-12">
-                    <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b2-lqip.jpg" data-src="assets/images/blog/b2.jpg" alt="Blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Architecture</a></span>
-                        </figure>
-                        <div class="entry-content-wrapper">
-                            <header class="entry-header">
-                                <!--+entryMetaTop(item.author, item.date, item.commentCount, item.isEdit) -->
-                                <h2 class="entry-title"><a href="#">What Today’s Renters Truly Want In The Building</a></h2>
-                            </header>
-                            <div class="entry-content">
-                                <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem</p>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-lg-4 col-12">
-                    <article>
-                        <figure class="entry-media"><img class="lozad" src="assets/images/blog/b3-lqip.jpg" data-src="assets/images/blog/b3.jpg" alt="Blog-khan-enterprise"/><span class="entry-meta-category"><a href="blog-three-col.html">Construction</a></span>
-                        </figure>
-                        <div class="entry-content-wrapper">
-                            <header class="entry-header">
-                                <!--+entryMetaTop(item.author, item.date, item.commentCount, item.isEdit) -->
-                                <h2 class="entry-title"><a href="#">Should I Sell or Rent My Newly constructed House?</a></h2>
-                            </header>
-                            <div class="entry-content">
-                                <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem</p>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-            </div>
-            <div class="text-center align-items-center"><a class="btn btn-outline-black rounded-0" href="/blog">MORE POSTS</a></div>
-        </div>
+{{--        removed--}}
         <!--Subscription form-->
         @include('includes.subscription-form')
     </div>

@@ -61,6 +61,11 @@ Route::get('/projects', function () {
     return view('projects');
 });
 
+Route::get('/process', function () {
+    return view('process');
+});
+
+
 Route::get('/testimonials', function () {
     return view('testimonials');
 });

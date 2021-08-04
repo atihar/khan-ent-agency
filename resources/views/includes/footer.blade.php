@@ -5,6 +5,7 @@
             <div class="row gx-lg-5">
                 <div class="col-lg-3">
                     <div class="footer-widget footer-widget-1">
+                        <h5 class="mb-3 text-theme-color">#NO-0071, Flat Road, Maijdee Court, Noakhali, 3800, BD</h5>
                         <h5 class="mb-3 text-theme-color">399/2 (2nd Floor), East Nakhalpara, Tejgaon, Dhaka 1215, BD</h5>
                         <h5 class="text-theme-color">+88 01919 017 358 info@khanenterprise.xyz</h5>
                         <ul class="list-unstyled list-inline mt-5 mb-5 mb-md-0">

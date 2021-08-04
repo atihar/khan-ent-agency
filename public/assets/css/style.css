@@ -108,7 +108,7 @@ img {
 }
 
 .site-header .navbar {
-  background-color: #E34D56;
+  background-color: #ffffff;
   padding-top: 28px;
   padding-bottom: 28px;
 }
@@ -138,7 +138,6 @@ img {
 @media (min-width: 992px) {
   .site-header .navbar .nav-item .nav-link {
     position: relative;
-    color:white;
   }
   .site-header .navbar .nav-item .nav-link.active, .site-header .navbar .nav-item .nav-link:hover {
     color: black;

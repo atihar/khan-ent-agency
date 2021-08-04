@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-        <!-- teame cards-->
+        <!-- our values -->
         <div class="container mt-lg-9 mt-md-7 mt-5">
             <div class="row gx-lg-5 gy-5">
                 <div class="row gx-lg-5 bg-light p-5">
