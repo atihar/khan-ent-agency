@@ -8,9 +8,16 @@
                     <div class="col-lg-12">
                         <h2 class="my-3">Quality management system</h2>
                         <div class="pr-lg-12">
-                            <p class="lead mt-3">Work quality is supreme importance to all team members at Khan Enterprise. We are continually evaluating and improving the level of service we offer our clients to ensure the repuration for quality on which we pride ourselves is maintained and grown, We are committed to providing projects that are not just fit-for-purpose, but which exceed expectation in terms of quality of build and functionality. Our reputation for both the quality of our project management and finished projects is achieved through our commitment and proven Quality Management System.</p>
-                            <p class="lead">Khan Enterprise Quality Management System is to help guide our employee and subcontractor trade employees to fullfill the core quality value, Our Quality system is an integral part of our companies management activity and is implemented through a comprehensive set of procedures and controls which are documented in accordance global standard.</p><br>
-                            <p class="lead "><span class="font-weight-bold">Our Quality Management System follows five basic principles of Quality:</span><br>
+                            <div class="row">
+                                <div class="col-6 display-inline-block">
+                                    <p class="lead mt-3">Work quality is supreme importance to all team members at Khan Enterprise. We are continually evaluating and improving the level of service we offer our clients to ensure the repuration for quality on which we pride ourselves is maintained and grown, We are committed to providing projects that are not just fit-for-purpose, but which exceed expectation in terms of quality of build and functionality. Our reputation for both the quality of our project management and finished projects is achieved through our commitment and proven Quality Management System.</p>
+                                    <p class="lead">Khan Enterprise Quality Management System is to help guide our employee and subcontractor trade employees to fullfill the core quality value, Our Quality system is an integral part of our companies management activity and is implemented through a comprehensive set of procedures and controls which are documented in accordance global standard.</p><br>
+                                </div>
+                                <div class="col-6 display-inline-block">
+                                    <img class="pt-5" src="assets/images/90.jpg" alt="">
+                                </div>
+                            </div>
+                                <p class="lead "><span class="font-weight-bold">Our Quality Management System follows five basic principles of Quality:</span><br>
                                 - Ensure that Khan Enterprise projects meet or exceed the quality standards according to the National standard policy and project agreement.<br>
                                 - Succcessfully indentifies and controls the quality standard to provide direction to all project participants regarding our quality policies, standard and procedures.<br>
                                 - Nurtures and guid3es our Quality Culture for long-term quality control through established processes,  proven policies and procedures.<br>
@@ -29,18 +36,25 @@
                     <div class="col-lg-612">
                         <div class="px-lg-0 px-md-0">
                             <h1 class="mb-3">Environmental management plan</h1>
-                            <p class="lead mb-3 ">Khan Enterprise is committed to managing the environmental
-                                impacts and achieving consistently high standards of
-                                performance throughout the duration of our projects. We
-                                contribute to our environments and develop structures which
-                                may last centuries. With this in mind, we are future centric in
-                                terms of the design and technology we apply. We recognize
-                                the importance of utilizing the most modern and most
-                                sustainable materials within the construction process. We
-                                continuously strive to perform sustainable best practice in
-                                construction. Our mission is to lesson our impact on
-                                environment, and every new project for us is a challenge in
-                                search of a zero carbon footprint.</p>
+                            <div class="row">
+                                <div class="col-6">
+                                    <p class="lead mb-3 ">Khan Enterprise is committed to managing the environmental
+                                        impacts and achieving consistently high standards of
+                                        performance throughout the duration of our projects. We
+                                        contribute to our environments and develop structures which
+                                        may last centuries. With this in mind, we are future centric in
+                                        terms of the design and technology we apply. We recognize
+                                        the importance of utilizing the most modern and most
+                                        sustainable materials within the construction process. We
+                                        continuously strive to perform sustainable best practice in
+                                        construction. Our mission is to lesson our impact on
+                                        environment, and every new project for us is a challenge in
+                                        search of a zero carbon footprint.</p>
+                                </div>
+                                <div class="col-6">
+                                    <img src="assets/images/91.jpg" alt="">
+                                </div>
+                            </div>
 
                             <p class="lead">Objective of our Environmental Management Plan is to<br>
 
@@ -79,17 +93,24 @@
                 <div class="col-lg-612">
                     <div class="px-lg-0 px-md-0">
                         <h1 class="mb-3">Health, safety, injury and illness prevention policy</h1>
-                        <p class="lead mb-3 ">The health and safety of each employee is of primary importance to us. At Khan Enterprise, we are committed to maintaining a healthy and safe working environment Operations team will provide necessary safeguards, programs, and equipment required to reduce the potential for incidents and injuries. </p>
+                        <div class="row">
+                            <div class="col-6">
+                                <p class="lead mb-3 ">The health and safety of each employee is of primary importance to us. At Khan Enterprise, we are committed to maintaining a healthy and safe working environment Operations team will provide necessary safeguards, programs, and equipment required to reduce the potential for incidents and injuries. </p>
 
-                        <p class="lead">To achieve this goal, we have developed and implemented a comprehensive Health. Safety. and Injury and Illness Prevention Policy which incorporates all required components of an Injury and Illness Prevention Program. This program is designed to prevent workplace incidents, injuries, and illnesses. A complete copy of the program is maintained at our offices and on all job site locations in written or electronic form. </p>
+                                <p class="lead">To achieve this goal, we have developed and implemented a comprehensive Health. Safety. and Injury and Illness Prevention Policy which incorporates all required components of an Injury and Illness Prevention Program. This program is designed to prevent workplace incidents, injuries, and illnesses. A complete copy of the program is maintained at our offices and on all job site locations in written or electronic form. </p>
+                            </div>
+                            <div class="col-6">
+                                <img src="assets/images/93.jpg" alt="">
+                            </div>
+                        </div>
                         <p class="lead">First and foremost the guarantee of the health and safety of our employees and of all those effected by our construction operations is an absolute prerequisite to conducting any work at any time. We have developed our systems and procedures over many years based on these ethics. We are very much committed to comply with all national laws relating to occupational health and safety. To accomplish this, we ensure the active participation and assistance of all employees. The policies and procedures determined the conditions in all work areas that can produce injuries or illness. None of our employees are required to work at a job that he or she knows is unsafe. Never hesitate to inform the line manager of any potentially hazardous situation or condition that is beyond your ability or authority to correct immediately. No employee is discriminated against for reporting safety concerns to management. </p>
                         <p class="lead pl-5" style="border-left: 3px solid black">Our Leadership team and staff members are totally committed to the implementation and continuous improvement of the Integrated Management Systems governing our Health,Safety and Codes of Practice. These systems are living documents that are continually reviewed and improved in line with industry best practice.  </p>
-                        <p class="lead">A successful Health, Safety. Environmental and Injury and Illness Prevention Program can only be achieved and maintained when there is active interest, participation, and accountability at all levels of the organization. At Khcn Enterprise it is a condition of employment that all employees are responsible for safety To ensure this, all employees of Khcn Enterprise support and maintain an ongoing Health. Safety. and Injury and Illness Prevention Policy through the following:
+                           <p class="lead">A successful Health, Safety. Environmental and Injury and Illness Prevention Program can only be achieved and maintained when there is active interest, participation, and accountability at all levels of the organization. At Khcn Enterprise it is a condition of employment that all employees are responsible for safety To ensure this, all employees of Khcn Enterprise support and maintain an ongoing Health. Safety. and Injury and Illness Prevention Policy through the following:
                            <br> 1. Provide clear understanding and direction to all management, employees, and sub-contractors regarding the importance of safety through the development, implementation, monitoring, and revision of policies and procedures.
                             <br>2. Provide financial support for the Injury and Illness Prevention activities through the provision of adequate funds for the purchase of necessary safety materials, safety equipment, proper personal protective equipment, adequate time for employee safety training, and maintenance of tools and equipment
                             <br>3. Oversee development, implementation, and maintenance of the policy and other required safety programs.
                             <br>4. Maintain a company commitment to incident prevention by expecting safe conduct on the part of all managers, supervisors, and employees.
-                            <br> 5. Hold all levels of management and employees accountable for incident prevention and safety. Regular review all incident investigations to determine corrective action.
+                            <br>5. Hold all levels of management and employees accountable for incident prevention and safety. Regular review all incident investigations to determine corrective action.
                             </p>
                     </div>
                 </div>

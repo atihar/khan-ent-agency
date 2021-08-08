@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- favicon-->
-    <link rel="shortcut icon" href={{asset('assets/images/favicon.ico')}}>
+    <link rel="shortcut icon" href={{asset('assets/images/favicon.jpg')}}>
     <!-- Site Title-->
     <title>Khan Ent - First Class Contractor</title>
     <meta name="description" content="han Enterprise founded in 1998 in Noakhali, Bangladesh. Since then the company has grown dramatically in both size and reputaion. We have built our repuration on our client focus and hands-on approach to become a trusted name in the civil engineering and construction business in Bangladesh. We have played diverse chords in the sector, handling mid to large scale constructions in niche areas including government projects, sea and land port constructions, road networks, bridges, buildings, office complex and wash facilities.">
