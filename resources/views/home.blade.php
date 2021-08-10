@@ -45,8 +45,9 @@
                        <div class="pb-md-2 d-inline"><a class="btn btn-outline-white" href="/about">ABOUT US</a></div>
 
                     </div>
-                    <div class="col-lg-6 pt-6 pb-10">
+                    <div class="col-lg-6 pb-10">
 {{--                        <div class="mt-lg-0 mt-md-5 mt-5"> <img src="assets/images/1.jpg" alt="burger"></div>--}}
+                        <h3 class="text-white">Message from our CEO</h3>
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sU1MZU3MJXM"></iframe>
                         </div>

@@ -60,7 +60,7 @@
 {{--                </div>--}}
                 <div class="row">
                     <div class="col-6">
-                        <img src="assets/images/5.jpg" alt="project">
+                        <img src="assets/images/76.jpg" alt="project">
                         <p class="lead">Project: Vertical Extension of 10 storied academic Building of Noakhali Science &amp; Technology
                             University <br>
                             Client: Noakhali Science &amp; Technology University <br>
@@ -87,7 +87,7 @@
                             Year: 2019</p>
                     </div>
                     <div class="col-6">
-                        <img src="assets/images/28.jpg" alt="project">
+                        <img src="assets/images/5.jpg" alt="project">
                         <p class="lead">
                             Project: Construction and infrastructural development: works of various educational
                             institute under the Office of the Executive Engineer. <br>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="row">
                     <div class="col-6">
-                        <img src="assets/images/3.jpg" alt="project">
+                        <img src="assets/images/77.jpg" alt="project">
                         <p class="lead">Project: Improvement of Karamullah-UndercharFazumiarhat-Noakhali Sadar, Noakhali. <br>
                             Client: Office of the Executive Engineer, LGED, Noakhali <br>
                             Year: 2019</p>
