@@ -44,12 +44,13 @@
                     <!-- contact page-->
                     <div class="col-lg-6">
                         <div class="bg-white py-6 px-4 py-lg-6 px-lg-5">
-                            <form id="contact-form" method="post" action="assets/php.contact.php">
+                            <form id="contact-form" method="post" action="{{route('contact.mail')}}">
+                                @csrf
                                 <div class="mb-3 mb-lg-4">
-                                    <input class="form-control" id="form-name" type="text" name="fname" placeholder="Name" required>
+                                    <input class="form-control" id="form-name" type="text" name="name" placeholder="Name" required>
                                 </div>
                                 <div class="mb-3 mb-lg-4">
-                                    <input class="form-control" id="form-email" type="text" name="lname" placeholder="Email" required>
+                                    <input class="form-control" id="form-email" type="text" name="email" placeholder="Email" required>
                                 </div>
                                 <div class="mb-3 mb-lg-4">
                                     <input class="form-control" id="subject" type="text" name="subject" placeholder="Subject">
@@ -57,7 +58,9 @@
                                 <div class="mb-3 mb-lg-4">
                                     <textarea class="form-control" id="form-message" rows="6" cols="50" name="message" placeholder="Message" required> </textarea>
                                 </div>
-                                <div class="mb-lg-4"><a class="btn btn-outline-black rounded-0 d-block d-md-inline-block" href="#">Submit</a></div>
+                                <div class="mb-lg-4">
+                                    <button class="btn btn-outline-black rounded-0 d-block d-md-inline-block" type="submit">Submit</button>
+                                </div>
                             </form>
                         </div>
                     </div>
